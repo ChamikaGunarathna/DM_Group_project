@@ -20,3 +20,4 @@
 
 #ignoring all .csv fileas
 *.csv
+*.png
